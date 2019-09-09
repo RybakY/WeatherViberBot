@@ -1,4 +1,4 @@
-# MyWeatherViberBot
+# WeatherViberBot
 Viber bot with weather API written in Java
 # Features 
 Bot shows:
